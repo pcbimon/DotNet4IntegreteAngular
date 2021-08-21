@@ -166,11 +166,11 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Angular\.gitignore" />
-    <Content Include="Angular\karma.conf.js" />
-    <Content Include="Angular\src\app\app.component.html" />
-    <Content Include="Angular\src\favicon.ico" />
-    <Content Include="Angular\src\index.html" />
+    <Content Include="FrontEndAngular\.gitignore" />
+    <Content Include="FrontEndAngular\karma.conf.js" />
+    <Content Include="FrontEndAngular\src\app\app.component.html" />
+    <Content Include="FrontEndAngular\src\favicon.ico" />
+    <Content Include="FrontEndAngular\src\index.html" />
     <Content Include="Areas\HelpPage\HelpPage.css" />
     <Content Include="Bundles\AngularOutput\3rdpartylicenses.txt" />
     <Content Include="Bundles\AngularOutput\favicon.ico" />
@@ -207,18 +207,18 @@
     <Content Include="Areas\HelpPage\Views\Help\DisplayTemplates\CollectionModelDescription.cshtml" />
     <Content Include="Areas\HelpPage\Views\Help\DisplayTemplates\ApiGroup.cshtml" />
     <Content Include="Areas\HelpPage\Views\Help\Api.cshtml" />
-    <Content Include="Angular\.browserslistrc" />
-    <Content Include="Angular\.editorconfig" />
-    <Content Include="Angular\angular.json" />
-    <Content Include="Angular\package-lock.json" />
-    <Content Include="Angular\package.json" />
-    <Content Include="Angular\README.md" />
-    <Content Include="Angular\src\app\app.component.scss" />
-    <Content Include="Angular\src\assets\.gitkeep" />
-    <Content Include="Angular\src\styles.scss" />
-    <Content Include="Angular\tsconfig.app.json" />
-    <Content Include="Angular\tsconfig.json" />
-    <Content Include="Angular\tsconfig.spec.json" />
+    <Content Include="FrontEndAngular\.browserslistrc" />
+    <Content Include="FrontEndAngular\.editorconfig" />
+    <Content Include="FrontEndAngular\angular.json" />
+    <Content Include="FrontEndAngular\package-lock.json" />
+    <Content Include="FrontEndAngular\package.json" />
+    <Content Include="FrontEndAngular\README.md" />
+    <Content Include="FrontEndAngular\src\app\app.component.scss" />
+    <Content Include="FrontEndAngular\src\assets\.gitkeep" />
+    <Content Include="FrontEndAngular\src\styles.scss" />
+    <Content Include="FrontEndAngular\tsconfig.app.json" />
+    <Content Include="FrontEndAngular\tsconfig.json" />
+    <Content Include="FrontEndAngular\tsconfig.spec.json" />
     <None Include="Scripts\jquery-3.4.1.intellisense.js" />
     <Content Include="Scripts\jquery-3.4.1.js" />
     <Content Include="Scripts\jquery-3.4.1.min.js" />
@@ -278,14 +278,14 @@
     <Content Include="Scripts\jquery-3.4.1.min.map" />
   </ItemGroup>
   <ItemGroup>
-    <TypeScriptCompile Include="Angular\src\app\app-routing.module.ts" />
-    <TypeScriptCompile Include="Angular\src\app\app.component.ts" />
-    <TypeScriptCompile Include="Angular\src\app\app.module.ts" />
-    <TypeScriptCompile Include="Angular\src\environments\environment.prod.ts" />
-    <TypeScriptCompile Include="Angular\src\environments\environment.ts" />
-    <TypeScriptCompile Include="Angular\src\main.ts" />
-    <TypeScriptCompile Include="Angular\src\polyfills.ts" />
-    <TypeScriptCompile Include="Angular\src\test.ts" />
+    <TypeScriptCompile Include="FrontEndAngular\src\app\app-routing.module.ts" />
+    <TypeScriptCompile Include="FrontEndAngular\src\app\app.component.ts" />
+    <TypeScriptCompile Include="FrontEndAngular\src\app\app.module.ts" />
+    <TypeScriptCompile Include="FrontEndAngular\src\environments\environment.prod.ts" />
+    <TypeScriptCompile Include="FrontEndAngular\src\environments\environment.ts" />
+    <TypeScriptCompile Include="FrontEndAngular\src\main.ts" />
+    <TypeScriptCompile Include="FrontEndAngular\src\polyfills.ts" />
+    <TypeScriptCompile Include="FrontEndAngular\src\test.ts" />
   </ItemGroup>
   <ItemGroup>
     <Service Include="{4A0DDDB5-7A95-4FBF-97CC-616D07737A77}" />
