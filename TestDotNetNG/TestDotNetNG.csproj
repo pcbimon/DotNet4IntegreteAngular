@@ -180,6 +180,21 @@
     <Content Include="Content\bootstrap.min.css" />
     <Content Include="favicon.ico" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
+    <Content Include="FrontEndAngular\.gitignore" />
+    <Content Include="FrontEndAngular\dist\out-tsc\app\app-routing.module.js" />
+    <Content Include="FrontEndAngular\dist\out-tsc\app\app.component.js" />
+    <Content Include="FrontEndAngular\dist\out-tsc\app\app.module.js" />
+    <Content Include="FrontEndAngular\dist\out-tsc\app\newcomp\newcomp.component.js" />
+    <Content Include="FrontEndAngular\dist\out-tsc\environments\environment.js" />
+    <Content Include="FrontEndAngular\dist\out-tsc\environments\environment.prod.js" />
+    <Content Include="FrontEndAngular\dist\out-tsc\main.js" />
+    <Content Include="FrontEndAngular\dist\out-tsc\polyfills.js" />
+    <Content Include="FrontEndAngular\dist\out-tsc\test.js" />
+    <Content Include="FrontEndAngular\karma.conf.js" />
+    <Content Include="FrontEndAngular\src\app\app.component.html" />
+    <Content Include="FrontEndAngular\src\app\newcomp\newcomp.component.html" />
+    <Content Include="FrontEndAngular\src\favicon.ico" />
+    <Content Include="FrontEndAngular\src\index.html" />
     <Content Include="Global.asax" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
@@ -202,6 +217,28 @@
     <Content Include="Areas\HelpPage\Views\Help\DisplayTemplates\CollectionModelDescription.cshtml" />
     <Content Include="Areas\HelpPage\Views\Help\DisplayTemplates\ApiGroup.cshtml" />
     <Content Include="Areas\HelpPage\Views\Help\Api.cshtml" />
+    <Content Include="FrontEndAngular\.browserslistrc" />
+    <Content Include="FrontEndAngular\.editorconfig" />
+    <Content Include="FrontEndAngular\angular.json" />
+    <Content Include="FrontEndAngular\dist\out-tsc\app\app-routing.module.js.map" />
+    <Content Include="FrontEndAngular\dist\out-tsc\app\app.component.js.map" />
+    <Content Include="FrontEndAngular\dist\out-tsc\app\app.module.js.map" />
+    <Content Include="FrontEndAngular\dist\out-tsc\app\newcomp\newcomp.component.js.map" />
+    <Content Include="FrontEndAngular\dist\out-tsc\environments\environment.js.map" />
+    <Content Include="FrontEndAngular\dist\out-tsc\environments\environment.prod.js.map" />
+    <Content Include="FrontEndAngular\dist\out-tsc\main.js.map" />
+    <Content Include="FrontEndAngular\dist\out-tsc\polyfills.js.map" />
+    <Content Include="FrontEndAngular\dist\out-tsc\test.js.map" />
+    <Content Include="FrontEndAngular\package-lock.json" />
+    <Content Include="FrontEndAngular\package.json" />
+    <Content Include="FrontEndAngular\README.md" />
+    <Content Include="FrontEndAngular\src\app\app.component.scss" />
+    <Content Include="FrontEndAngular\src\app\newcomp\newcomp.component.scss" />
+    <Content Include="FrontEndAngular\src\assets\.gitkeep" />
+    <Content Include="FrontEndAngular\src\styles.scss" />
+    <Content Include="FrontEndAngular\tsconfig.app.json" />
+    <Content Include="FrontEndAngular\tsconfig.json" />
+    <Content Include="FrontEndAngular\tsconfig.spec.json" />
     <None Include="Scripts\jquery-3.4.1.intellisense.js" />
     <Content Include="Scripts\jquery-3.4.1.js" />
     <Content Include="Scripts\jquery-3.4.1.min.js" />
@@ -262,6 +299,17 @@
   </ItemGroup>
   <ItemGroup>
     <Service Include="{4A0DDDB5-7A95-4FBF-97CC-616D07737A77}" />
+  </ItemGroup>
+  <ItemGroup>
+    <TypeScriptCompile Include="FrontEndAngular\src\app\app-routing.module.ts" />
+    <TypeScriptCompile Include="FrontEndAngular\src\app\app.component.ts" />
+    <TypeScriptCompile Include="FrontEndAngular\src\app\app.module.ts" />
+    <TypeScriptCompile Include="FrontEndAngular\src\app\newcomp\newcomp.component.ts" />
+    <TypeScriptCompile Include="FrontEndAngular\src\environments\environment.prod.ts" />
+    <TypeScriptCompile Include="FrontEndAngular\src\environments\environment.ts" />
+    <TypeScriptCompile Include="FrontEndAngular\src\main.ts" />
+    <TypeScriptCompile Include="FrontEndAngular\src\polyfills.ts" />
+    <TypeScriptCompile Include="FrontEndAngular\src\test.ts" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
