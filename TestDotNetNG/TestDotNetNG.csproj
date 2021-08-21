@@ -169,6 +169,7 @@
     <Content Include="FrontEndAngular\.gitignore" />
     <Content Include="FrontEndAngular\karma.conf.js" />
     <Content Include="FrontEndAngular\src\app\app.component.html" />
+    <Content Include="FrontEndAngular\src\app\newcomp\newcomp.component.html" />
     <Content Include="FrontEndAngular\src\favicon.ico" />
     <Content Include="FrontEndAngular\src\index.html" />
     <Content Include="Areas\HelpPage\HelpPage.css" />
@@ -219,6 +220,7 @@
     <Content Include="FrontEndAngular\tsconfig.app.json" />
     <Content Include="FrontEndAngular\tsconfig.json" />
     <Content Include="FrontEndAngular\tsconfig.spec.json" />
+    <Content Include="FrontEndAngular\src\app\newcomp\newcomp.component.scss" />
     <None Include="Scripts\jquery-3.4.1.intellisense.js" />
     <Content Include="Scripts\jquery-3.4.1.js" />
     <Content Include="Scripts\jquery-3.4.1.min.js" />
@@ -281,6 +283,7 @@
     <TypeScriptCompile Include="FrontEndAngular\src\app\app-routing.module.ts" />
     <TypeScriptCompile Include="FrontEndAngular\src\app\app.component.ts" />
     <TypeScriptCompile Include="FrontEndAngular\src\app\app.module.ts" />
+    <TypeScriptCompile Include="FrontEndAngular\src\app\newcomp\newcomp.component.ts" />
     <TypeScriptCompile Include="FrontEndAngular\src\environments\environment.prod.ts" />
     <TypeScriptCompile Include="FrontEndAngular\src\environments\environment.ts" />
     <TypeScriptCompile Include="FrontEndAngular\src\main.ts" />
